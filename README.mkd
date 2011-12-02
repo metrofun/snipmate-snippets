@@ -1,1 +1,1 @@
-Snippets for Snipmate
+Snipmate predefined snippets misses css, cslt and xml
